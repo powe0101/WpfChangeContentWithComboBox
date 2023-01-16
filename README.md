@@ -7,6 +7,8 @@ Microsoft.Xaml.Behaviors
 
 CommunityToolkit.Mvvm
 
+Fody.PropertyChanged
+
 # Concept
 
 MVVM Zero-Behind Code 적용
